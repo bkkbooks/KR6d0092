@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0092_000-X.yaml, hash: 'sha256:0c36904e64d835e5c85b0a782d9d21b052aa32a62b476df2fd3fb650e8770805'}
+  - {seq: 0, filename: KR6d0092_000-X.yaml, hash: 'sha256:5b2ec9b30f58a16b5aa8c1e4c649602d926cf1789a53bfc5945d121450b3d53a'}
   - {seq: 1, filename: KR6d0092_001-X.yaml, hash: 'sha256:bd47960fe2b9bdd57c659ea7cb0fb4772531a8542a130f6fb0d6e381b59de463'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0092_000-X.markers.yaml, hash: 'sha256:e224dbd6ada2936ad485798be5675c4ecb23af94a9f9bd76e25ea15353bc0dac'}
+  - {seq: 0, role: markers, filename: assets/KR6d0092_000-X.markers.yaml, hash: 'sha256:6c3ca7b125575274f1a09a9bb400824cbf642f996c940ca355348997d4bb5222'}
   - {seq: 1, role: markers, filename: assets/KR6d0092_001-X.markers.yaml, hash: 'sha256:77ec84cc453b06813b3863ea17558edcc3808574a86261805e7e5d69046f6366'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0092_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 626-A 序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0092_X_000-mulu-2
     span:
-    - front
+    - body
     - 402
     - 402
   label: 目次
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0092_X_000-mulu-3
     span:
-    - front
+    - body
     - 657
     - 657
   label: 妙法蓮華經科拾懸談卷首
@@ -75,4 +75,4 @@ table_of_contents:
   label: 妙法蓮華經弘傳序略義
   type: mulu
   level: 1
-hash: sha256:513084cb8ed433373350ba40c63d3d09f61c2269725fff0803997fb7dbcd925e
+hash: sha256:9c28eedb9483ca0b3149b1411c90555c7d926d477669b236e537933ea644e060
